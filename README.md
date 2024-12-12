@@ -24,9 +24,9 @@
 
 | No. |       Full Name        | Student's ID |              Email               |                  Github account                   |                               Roles                                |
 | :-: | :--------------------: | :----------: | :------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------------: |
-|  1  | Dương Ngọc Phương Anh | ITDSIU20090  | ITDSIU20090@student.hcmiu.edu.vn |     [dngcphngnh04](https://github.com/dngcphngnh04)     |   **TEAM LEADER** with Model evaluation, Hyper-parameters tuning   |
-|  2  | Nguyễn Minh Đạt | ITDSIU20031  | ITDSIU20031@student.hcmiu.edu.vn |    [29Schiller](https://github.com/29Schiller)    |              Data preprocessing, Optimize performance              |
-|  3  | Nguyễn Hải Phú | ITDSIU20100  | ITDSIU20100@student.hcmiu.edu.vn |     [haiphu241](https://github.com/haiphu241)     | Implement classification/prediction algorithms in Java, Bug fixing |
+|  1  | Dương Ngọc Phương Anh | ITDSIU22135  | ITDSIU22135@student.hcmiu.edu.vn |     [dngcphngnh04](https://github.com/dngcphngnh04)     |   **TEAM LEADER** with Model evaluation, Hyper-parameters tuning   |
+|  2  | Nguyễn Minh Đạt | ITDSIU22166  | ITDSIU22166@student.hcmiu.edu.vn |    [29Schiller](https://github.com/29Schiller)    |              Data preprocessing, Optimize performance              |
+|  3  | Nguyễn Hải Phú | ITDSIU22179  | ITDSIU22179@student.hcmiu.edu.vn |     [haiphu241](https://github.com/haiphu241)     | Implement classification/prediction algorithms in Java, Bug fixing |
 
 
 ## 2. The project we are working on
